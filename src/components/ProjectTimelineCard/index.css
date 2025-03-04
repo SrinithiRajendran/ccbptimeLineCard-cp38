@@ -12,7 +12,7 @@
 }
 .project-title {
   color: #171f46;
-  font-size: 25px;
+  font-size: 12px;
 }
 .project-duration-container {
   display: flex;
@@ -21,20 +21,20 @@
 }
 .calender-icon {
   color: #171f46;
-  font-size: 20px;
+  font-size: 15px;
 }
 .project-duration {
   margin-left: 10px;
-  font-size: 18px;
+  font-size: 10px;
   color: #1e293b;
 }
 .project-description {
   color: #1e293b;
-  font-size: 20px;
+  font-size: 12px;
 }
 .project-visit {
   color: #0967d2;
   text-decoration: none;
-  font-size: 22px;
+  font-size: 12px;
   font-weight: 600px;
 }
