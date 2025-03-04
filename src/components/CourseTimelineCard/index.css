@@ -1,0 +1,48 @@
+/* Write your CSS here */
+
+.course-title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.course-title {
+  color: #171f46;
+  font-size: 25px;
+}
+.course-duration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clock-icon {
+  color: #171f46;
+  font-size: 20px;
+}
+.course-duration {
+  margin-left: 10px;
+  font-size: 18px;
+  color: #1e293b;
+}
+.course-description {
+  color: #1e293b;
+  font-size: 20px;
+}
+.course-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0px;
+  margin: 0px;
+}
+.course-item {
+  color: #25262c;
+  background-color: #e2e8f0;
+  font-size: 15px;
+  font-weight: 800;
+  border-radius: 4px;
+  line-height: 1.6;
+  padding: 4px 8px;
+  margin: 0px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  list-style: none;
+}
